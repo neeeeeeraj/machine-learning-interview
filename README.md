@@ -50,6 +50,7 @@ Follow [News about AI projects](https://news.llmlab.io/)
 | FAANG companies actual MLE interviews | Read [interview stories](https://mlengineer.io/mlengineer-io-interview/home) |
 | Practice coding  | [Leetcode questions by categories for MLE](https://mlengineer.io/common-leetcode-questions-by-categories-532b301130b)  |
 | Advance topics | Read [advance topics](extra.md) |
+| Practice Interview Questions | Read [25+ Machine Learning Interview Questions and Answers](https://www.datateams.ai/blog/machine-learning-interview-questions) |
 
 
 
